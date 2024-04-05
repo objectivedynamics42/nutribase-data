@@ -14,6 +14,9 @@
     },
     {
       "Name":"Fish"
+    },
+    {
+      "Name":"Meat"
     }
   ],
   "Foods": [
@@ -41,6 +44,11 @@
       "Name": "Tuna in Spring Water",
       "KPer100": 115,
       "Tags": ["Fish"]
+    },
+    {
+      "Name": "Chicken - Breast",
+      "KPer100": 106,
+      "Tags": ["Meat"]
     }
   ]
 }
