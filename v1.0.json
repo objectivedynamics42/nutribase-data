@@ -1,5 +1,5 @@
 {
-  "Tags": ["Fruit", "Vegetables", "Fats", "Dairy"],
+  "Tags": ["Fruit", "Vegetables", "Fats", "Dairy", "Fish"],
   "Foods": [
     {
       "Name": "Apple",
@@ -20,6 +20,11 @@
       "Name": "Yoghurt",
       "KPer100": 126,
       "Tags": ["Dairy"]
+    },
+    {
+      "Name": "Tuna in Spring Water",
+      "KPer100": 115,
+      "Tags": ["Fish"]
     }
   ]
 }
