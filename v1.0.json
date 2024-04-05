@@ -1,5 +1,5 @@
 {
-  "Tags": ["Fruit", "Vegetables", "Fats", "Dairy", "Fish"],
+  "Tags": ["Name":"Fruit", "Name":"Vegetables", "Name":"Fats", "Name":"Dairy", "Name":"Fish"],
   "Foods": [
     {
       "Name": "Apple",
