@@ -1,0 +1,25 @@
+{
+  "Tags": ["Fruit", "Vegetables", "Fats", "Dairy"],
+  "Foods": [
+    {
+      "Name": "Apple",
+      "KPer100": 36.0,
+      "Tags": ["Fruit"]
+    },
+    {
+      "Name": "Tomato - Fresh",
+      "KPer100": 14.0,
+      "Tags": ["Vegetables"]
+    },
+    {
+      "Name": "Rapeseed Oil",
+      "KPer100": 899,
+      "Tags": ["Fats"]
+    },
+    {
+      "Name": "Yoghurt",
+      "KPer100": 126,
+      "Tags": ["Dairy"]
+    }
+  ]
+}
