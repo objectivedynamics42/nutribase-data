@@ -1,0 +1,22 @@
+{
+  "Tags": [
+    {
+      "Name":"Fruit"
+    },
+    {
+      "Name":"Vegetables"
+    },
+    {
+      "Name":"Fats"
+    },
+    {
+      "Name":"Dairy"
+    },
+    {
+      "Name":"Fish"
+    },
+    {
+      "Name":"Meat"
+    }
+  ],
+}
