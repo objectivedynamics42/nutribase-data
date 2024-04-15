@@ -5,7 +5,23 @@
       "Tags":["Fruit"]
     },
     {
+      "Name":"Plums",
+      "Tags":["Fruit"]
+    },
+    {
+      "Name":"Tangerines",
+      "Tags":["Fruit"]
+    },
+    {
       "Name":"Carrots",
+      "Tags":["Vegetables"]
+    },
+    {
+      "Name":"Broccoli",
+      "Tags":["Vegetables"]
+    },
+    {
+      "Name":"Runner Beans",
       "Tags":["Vegetables"]
     },
     {
@@ -13,11 +29,35 @@
       "Tags":["Oil"]
     },
     {
+      "Name":"Rapeseed Oil",
+      "Tags":["Oil"]
+    },
+    {
+      "Name":"Sesame Oil",
+      "Tags":["Oil"]
+    },
+    {
       "Name":"Yoghurt",
       "Tags":["Dairy"]
     },
     {
+      "Name":"Whole Milk",
+      "Tags":["Dairy"]
+    },
+    {
+      "Name":"Skimmed Milk",
+      "Tags":["Dairy"]
+    },
+    {
       "Name":"Tuna in Brine",
+      "Tags":["Fish"]
+    },
+    {
+      "Name":"Smoked Haddock",
+      "Tags":["Fish"]
+    },
+    {
+      "Name":"Mackerel",
       "Tags":["Fish"]
     }
   ]
