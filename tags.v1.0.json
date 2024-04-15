@@ -1,22 +1,37 @@
 {
   "Tags": [
     {
-      "Name":"Fruit"
+      "Name":"1. Fruit"
     },
     {
-      "Name":"Vegetables"
+      "Name":"2. Vegetables"
     },
     {
-      "Name":"Fats"
+      "Name":"3. Fats"
     },
     {
-      "Name":"Dairy"
+      "Name":"4. Dairy"
     },
     {
-      "Name":"Fish"
+      "Name":"5. Fish"
     },
     {
-      "Name":"Meat"
-    }
+      "Name":"6. Future Tag #1"
+    },
+    {
+      "Name":"7. Future Tag #2"
+    },
+    {
+      "Name":"8. Future Tag #3"
+    },
+    {
+      "Name":"9. Future Tag #4"
+    },
+    {
+      "Name":"10. Future Tag #5"
+    },
+    {
+      "Name":"11. Future Tag #6"
+    },
   ]
 }
