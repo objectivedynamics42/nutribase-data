@@ -1,0 +1,19 @@
+{
+  "Foods": [
+    {
+      "Name":"Apples"
+    },
+    {
+      "Name":"Carrots"
+    },
+    {
+      "Name":"Olive Oil"
+    },
+    {
+      "Name":"Yoghurt"
+    },
+    {
+      "Name":"Tuna in Brine"
+    }
+  ]
+}
