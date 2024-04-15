@@ -1,19 +1,24 @@
 {
   "Foods": [
     {
-      "Name":"Apples"
+      "Name":"Apples",
+      "Tags":["Fruit"]
     },
     {
-      "Name":"Carrots"
+      "Name":"Carrots",
+      "Tags":["Vegetables"]
     },
     {
-      "Name":"Olive Oil"
+      "Name":"Olive Oil",
+      "Tags":["Oil"]
     },
     {
-      "Name":"Yoghurt"
+      "Name":"Yoghurt",
+      "Tags":["Dairy"]
     },
     {
-      "Name":"Tuna in Brine"
+      "Name":"Tuna in Brine",
+      "Tags":["Fish"]
     }
   ]
 }
