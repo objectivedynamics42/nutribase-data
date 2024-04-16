@@ -1,47 +1,91 @@
 {
   "Foods": [
     {
-      "Name":"Apples",
+      "Name":"Apple - Fresh",
       "Tags":["Fruit"]
     },
     {
-      "Name":"Plums",
+      "Name":"Apple - Stewed",
       "Tags":["Fruit"]
     },
     {
-      "Name":"Tangerines",
+      "Name":"Apricot - Dried",
       "Tags":["Fruit"]
     },
     {
-      "Name":"Fruit 4",
+      "Name":"Apricot - With Stone",
       "Tags":["Fruit"]
     },
     {
-      "Name":"Fruit 5",
+      "Name":"Banana",
       "Tags":["Fruit"]
     },
     {
-      "Name":"Fruit 6",
+      "Name":"Blackberries",
       "Tags":["Fruit"]
     },
     {
-      "Name":"Fruit 7",
+      "Name":"Dates - Dried",
       "Tags":["Fruit"]
     },
     {
-      "Name":"Fruit 8",
+      "Name":"Figs - Dried",
       "Tags":["Fruit"]
     },
     {
-      "Name":"Fruit 9",
+      "Name":"Figs - Fresh",
       "Tags":["Fruit"]
     },
     {
-      "Name":"Fruit 10",
+      "Name":"Grapes",
       "Tags":["Fruit"]
     },
     {
-      "Name":"Fruit 11",
+      "Name":"Kiwi",
+      "Tags":["Fruit"]
+    },
+    {
+      "Name":"Mango",
+      "Tags":["Fruit"]
+    },
+    {
+      "Name":"Mixed Berries - Frozen",
+      "Tags":["Fruit"]
+    },
+    {
+      "Name":"Nectarine",
+      "Tags":["Fruit"]
+    },
+    {
+      "Name":"Peach",
+      "Tags":["Fruit"]
+    },
+    {
+      "Name":"Peaches and Nectarines - Frozen",
+      "Tags":["Fruit"]
+    },
+    {
+      "Name":"Pear",
+      "Tags":["Fruit"]
+    },
+    {
+      "Name":"Persimmon",
+      "Tags":["Fruit"]
+    },
+    {
+      "Name":"Pineapple - Frozen",
+      "Tags":["Fruit"]
+    },
+    {
+      "Name":"Plum",
+      "Tags":["Fruit"]
+    },
+    {
+      "Name":"Rhubarb - stewed",
+      "Tags":["Fruit"]
+    },
+    {
+      "Name":"Tangerine - Flesh Only",
       "Tags":["Fruit"]
     },
     {
