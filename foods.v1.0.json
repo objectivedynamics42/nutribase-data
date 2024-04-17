@@ -2,138 +2,172 @@
   "Foods": [
     {
       "Name":"Apple - Fresh",
+      "kCalPer100g":"36",
       "Tags":["Fruit"]
     },
     {
       "Name":"Apple - Stewed",
+      "kCalPer100g":"40",
       "Tags":["Fruit"]
     },
     {
       "Name":"Apricot - Dried",
+      "kCalPer100g":"215",
       "Tags":["Fruit"]
     },
     {
       "Name":"Apricot - With Stone",
+      "kCalPer100g":"7",
       "Tags":["Fruit"]
     },
     {
       "Name":"Banana",
+      "kCalPer100g":"89",
       "Tags":["Fruit"]
     },
     {
       "Name":"Blackberries",
+      "kCalPer100g":"60",
       "Tags":["Fruit"]
     },
     {
       "Name":"Dates - Dried",
+      "kCalPer100g":"282",
       "Tags":["Fruit"]
     },
     {
       "Name":"Figs - Dried",
+      "kCalPer100g":"233",
       "Tags":["Fruit"]
     },
     {
       "Name":"Figs - Fresh",
+      "kCalPer100g":"74",
       "Tags":["Fruit"]
     },
     {
       "Name":"Grapes",
+      "kCalPer100g":"64",
       "Tags":["Fruit"]
     },
     {
       "Name":"Kiwi",
+      "kCalPer100g":"44",
       "Tags":["Fruit"]
     },
     {
       "Name":"Mango",
+      "kCalPer100g":"63",
       "Tags":["Fruit"]
     },
     {
       "Name":"Mixed Berries - Frozen",
+      "kCalPer100g":"38",
       "Tags":["Fruit"]
     },
     {
       "Name":"Nectarine",
+      "kCalPer100g":"44",
       "Tags":["Fruit"]
     },
     {
       "Name":"Peach",
+      "kCalPer100g":"32",
       "Tags":["Fruit"]
     },
     {
       "Name":"Peaches and Nectarines - Frozen",
+      "kCalPer100g":"42",
       "Tags":["Fruit"]
     },
     {
       "Name":"Pear",
+      "kCalPer100g":"36",
       "Tags":["Fruit"]
     },
     {
       "Name":"Persimmon",
+      "kCalPer100g":"127",
       "Tags":["Fruit"]
     },
     {
       "Name":"Pineapple - Frozen",
+      "kCalPer100g":"45",
       "Tags":["Fruit"]
     },
     {
       "Name":"Plum",
+      "kCalPer100g":"36",
       "Tags":["Fruit"]
     },
     {
       "Name":"Rhubarb - stewed",
+      "kCalPer100g":"27",
       "Tags":["Fruit"]
     },
     {
       "Name":"Tangerine - Flesh Only",
+      "kCalPer100g":"53",
       "Tags":["Fruit"]
     },
     {
       "Name":"Carrots",
+      "kCalPer100g":"4321",
       "Tags":["Vegetables"]
     },
     {
       "Name":"Broccoli",
+      "kCalPer100g":"4321",
       "Tags":["Vegetables"]
     },
     {
       "Name":"Runner Beans",
+      "kCalPer100g":"4321",
       "Tags":["Vegetables"]
     },
     {
       "Name":"Olive Oil",
+      "kCalPer100g":"4321",
       "Tags":["Oil"]
     },
     {
       "Name":"Rapeseed Oil",
+      "kCalPer100g":"4321",
       "Tags":["Oil"]
     },
     {
       "Name":"Sesame Oil",
+      "kCalPer100g":"4321",
       "Tags":["Oil"]
     },
     {
       "Name":"Yoghurt",
+      "kCalPer100g":"4321",
       "Tags":["Dairy"]
     },
     {
       "Name":"Whole Milk",
+      "kCalPer100g":"4321",
       "Tags":["Dairy"]
     },
     {
       "Name":"Skimmed Milk",
+      "kCalPer100g":"4321",
       "Tags":["Dairy"]
     },
     {
       "Name":"Tuna in Brine",
+      "kCalPer100g":"4321",
       "Tags":["Fish"]
     },
     {
       "Name":"Smoked Haddock",
+      "kCalPer100g":"4321",
       "Tags":["Fish"]
     },
     {
       "Name":"Mackerel",
+      "kCalPer100g":"4321",
       "Tags":["Fish"]
     }
   ]
