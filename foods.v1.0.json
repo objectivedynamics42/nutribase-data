@@ -23,12 +23,26 @@
     {
       "Name":"Ryvita - Fruity",
       "kCalPer100g":"56",
+	  "kCalUnit":"Calories each:",
       "Tags":["Bakery"]
     },
     {
       "Name":"Bread - Wholemeal",
       "kCalPer100g":"121",
+	  "kCalUnit":"Calories per round:",
       "Tags":["Bakery"]
+    },
+    {
+      "Name":"Eggs - Large",
+      "kCalPer100g":"85",
+	  "kCalUnit":"Calories each:",
+      "Tags":["Dairy"]
+    },
+    {
+      "Name":"Eggs - Medium",
+      "kCalPer100g":"72",
+	  "kCalUnit":"Calories each:",
+      "Tags":["Dairy"]
     },
     {
       "Name":"Spread Cheese - Full Fat",
