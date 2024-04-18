@@ -6,7 +6,7 @@ The data comprises two fundamental types:
 * Tag
 * Food
 # Tag
-A _Tag_ is a term that can be applied to one or more foods, opening  up the possibility of _NutriBase_ being able to display flexible groupings of foods. You can add as many tags as you require. 
+A _Tag_ is a term that can be applied to one or more foods, opening  up the possibility of _NutriBase_ being able to display flexible groupings of foods.
 
 Here is an example of a tag that could be used to group items such as _bread_,_cakes_ and _muffins_:
 ```
@@ -15,7 +15,7 @@ Here is an example of a tag that could be used to group items such as _bread_,_c
     },
 
 ```
-Tag files have the following naming convention:
+You can add as many tags as you require. To do so you'll need to locate and update the latest version of the tag file. The tag file has the following naming convention:
 ```
     tags.<version>.json
 ```
@@ -23,6 +23,8 @@ The current tag file is:
 ```
     tags.v1.0.json
 ```
+
+Adding new tags can be done without changing the filename. However if you need to modify the structure of the json object, you'll need to  update the version in the filenamd. Such an update would also require a change to the _Nutribase_ app
 
 # Food
 * Name - the name of the food item e.g. Apple, Bran or Sunflower Seeds
@@ -39,7 +41,7 @@ Here is an example that uses a non-default value for _kCalUnit_:
       "Tags":["Bakery"]
     },
 ```
-
+As with tags, you can add as many food entries as you require. To do so you'll need to locate and update the latest version of the food file. The food file has the following naming convention:
 
 Food files have the following naming convention:
 ```
@@ -50,4 +52,5 @@ The current tag file is:
     foods.v1.0.json
 ```
 
+Adding new foods can be done without changing the filename. However if you need to modify the structure of the json object, you'll need to  update the version in the filenamd. Such an update would also require a change to the _Nutribase_ app
 
