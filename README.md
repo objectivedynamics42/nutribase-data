@@ -25,7 +25,7 @@ The current tag file is:
     tags.v1.0.json
 ```
 
-Adding new tags can be done without changing the filename. However if you need to modify the structure of the json object, you'll need to  update the version in the filenamd. Such an update would also require a change to the _Nutribase_ app
+Adding new tags can be done without changing the filename. However if you need to modify the structure of the json object, you'll need to  update the version in the filename. Such an update would also require a change to the _Nutribase_ app
 
 # Food
 * Name - the name of the food item e.g. Apple, Bran or Sunflower Seeds
@@ -54,5 +54,5 @@ The current tag file is:
     foods.v1.0.json
 ```
 
-Adding new foods can be done without changing the filename. However if you need to modify the structure of the json object, you'll need to  update the version in the filenamd. Such an update would also require a change to the _Nutribase_ app
+Adding new foods can be done without changing the filename. However if you need to modify the structure of the json object, you'll need to  update the version in the filename. Such an update would also require a change to the _Nutribase_ app
 
