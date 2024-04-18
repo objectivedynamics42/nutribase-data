@@ -28,7 +28,7 @@ The current tag file is:
 Adding new tags can be done without changing the filename. However if you need to modify the structure of the json object, you'll need to  update the version in the filename. Such an update would also require a change to the _Nutribase_ app
 
 # Food
-* Name - the name of the food item e.g. Apple, Bran or Sunflower Seeds
+* Name - the name of the food item e.g. _Apple_, _Bran_ or _Sunflower Seeds_
 * Tags - a comma separated array of terms that can be used to group foods to which the tag is applied 
 * kCalPer100g - this property defines the calorific value of a quantity of the food. By default this is for 100g but you can override the meaning of the value using the kCalUnit property. See below
 * kCalUnit - this enables you to provide a custom caption for the kCal amount
