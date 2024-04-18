@@ -346,19 +346,9 @@
       "Tags":["Vegetables"]
     },
     {
-      "Name":"Olive Oil",
-      "kCalPer100g":"4321",
-      "Tags":["Oil"]
-    },
-    {
       "Name":"Rapeseed Oil",
-      "kCalPer100g":"4321",
-      "Tags":["Oil"]
-    },
-    {
-      "Name":"Sesame Oil",
-      "kCalPer100g":"4321",
-      "Tags":["Oil"]
+      "kCalPer100g":"899",
+      "Tags":["Packaged","Oil"]
     },
     {
       "Name":"Lime Pickle",
@@ -366,7 +356,7 @@
       "Tags":["Packaged"]
     },
     {
-      "Name":"Mackerel - in Sauce",
+      "Name":"Mackerel in Sauce",
       "kCalPer100g":"126",
 	  "kCalUnit":"Calories per can:",
       "Tags":["Fish","Packaged"]
@@ -380,16 +370,6 @@
       "Name":"Tuna - in Spring Water",
       "kCalPer100g":"115",
       "Tags":["Fish","Packaged"]
-    },
-    {
-      "Name":"Tuna in Brine",
-      "kCalPer100g":"4321",
-      "Tags":["Fish","Packaged"]
-    },
-    {
-      "Name":"Smoked Haddock",
-      "kCalPer100g":"4321",
-      "Tags":["Fish"]
     }
   ]
 }
