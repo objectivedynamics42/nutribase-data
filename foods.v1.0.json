@@ -1,6 +1,16 @@
 {
   "Foods": [
     {
+      "Name":"Ryvita - Fruity",
+      "kCalPer100g":"56",
+      "Tags":["Bakery"]
+    },
+    {
+      "Name":"Bread - Wholemeal",
+      "kCalPer100g":""121,
+      "Tags":["Bakery"]
+    },
+    {
       "Name":"Apple - Fresh",
       "kCalPer100g":"36",
       "Tags":["Fruit"]
