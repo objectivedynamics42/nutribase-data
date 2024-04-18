@@ -13,12 +13,13 @@ Here is an example of a tag that could be used to group items such as _bread_,_c
     {
       "Name":"Bakery"
     },
-
 ```
+
 You can add as many tags as you require. To do so you'll need to locate and update the latest version of the tag file. The tag file has the following naming convention:
 ```
     tags.<version>.json
 ```
+
 The current tag file is:
 ```
     tags.v1.0.json
@@ -41,6 +42,7 @@ Here is an example that uses a non-default value for _kCalUnit_:
       "Tags":["Bakery"]
     },
 ```
+
 As with tags, you can add as many food entries as you require. To do so you'll need to locate and update the latest version of the food file. The food file has the following naming convention:
 
 Food files have the following naming convention:
