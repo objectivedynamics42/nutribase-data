@@ -211,18 +211,138 @@
       "Tags":["Grains"]
     },
     {
-      "Name":"Carrots",
-      "kCalPer100g":"4321",
+      "Name":"Asparagus",
+      "kCalPer100g":"20",
+      "Tags":["Vegetables"]
+    },
+    {
+      "Name":"Aubergine",
+      "kCalPer100g":"25",
       "Tags":["Vegetables"]
     },
     {
       "Name":"Broccoli",
-      "kCalPer100g":"4321",
+      "kCalPer100g":"25",
+      "Tags":["Vegetables"]
+    },
+    {
+      "Name":"Butternut Squash",
+      "kCalPer100g":"45",
+      "Tags":["Vegetables"]
+    },
+    {
+      "Name":"Cabbage",
+      "kCalPer100g":"21",
+      "Tags":["Vegetables"]
+    },
+    {
+      "Name":"Carrot",
+      "kCalPer100g":"21",
+      "Tags":["Vegetables"]
+    },
+    {
+      "Name":"Cauliflower",
+      "kCalPer100g":"38",
+      "Tags":["Vegetables"]
+    },
+    {
+      "Name":"Celery",
+      "kCalPer100g":"7",
+      "Tags":["Vegetables"]
+    },
+    {
+      "Name":"Garlic - Fresh",
+      "kCalPer100g":"111",
+      "Tags":["Vegetables"]
+    },
+    {
+      "Name":"Garlic - Paste",
+      "kCalPer100g":"102",
+      "Tags":["Vegetables"]
+    },
+    {
+      "Name":"Ginger - Paste",
+      "kCalPer100g":"49",
+      "Tags":["Vegetables"]
+    },
+    {
+      "Name":"Mushrooms",
+      "kCalPer100g":"20",
+      "Tags":["Vegetables"]
+    },
+    {
+      "Name":"Olives",
+      "kCalPer100g":"155",
+      "Tags":["Vegetables"]
+    },
+    {
+      "Name":"Onion",
+      "kCalPer100g":"25",
+      "Tags":["Vegetables"]
+    },
+    {
+      "Name":"Peas - Frozen",
+      "kCalPer100g":"83",
+      "Tags":["Vegetables"]
+    },
+    {
+      "Name":"Pepper - Red",
+      "kCalPer100g":"24",
+      "Tags":["Vegetables"]
+    },
+    {
+      "Name":"Pepper - Yellow",
+      "kCalPer100g":"36",
+      "Tags":["Vegetables"]
+    },
+    {
+      "Name":"Potatoes - baby",
+      "kCalPer100g":"64",
       "Tags":["Vegetables"]
     },
     {
       "Name":"Runner Beans",
-      "kCalPer100g":"4321",
+      "kCalPer100g":"25",
+      "Tags":["Vegetables"]
+    },
+    {
+      "Name":"Sprouts",
+      "kCalPer100g":"35",
+      "Tags":["Vegetables"]
+    },
+    {
+      "Name":"Swede",
+      "kCalPer100g":"38",
+      "Tags":["Vegetables"]
+    },
+    {
+      "Name":"Sweet Potato",
+      "kCalPer100g":"86",
+      "Tags":["Vegetables"]
+    },
+    {
+      "Name":"Sweetcorn - Frozen",
+      "kCalPer100g":"77",
+      "Tags":["Vegetables"]
+    },
+    {
+      "Name":"Tomatoes - Tinned - Chopped",
+      "kCalPer100g":"22",
+      "Tags":["Vegetables"]
+    },
+    {
+      "Name":"Tomtatoes - Fresh",
+      "kCalPer100g":"14",
+      "Tags":["Vegetables"]
+    },
+    {
+      "Name":"Tomatoes - Passata",
+      "kCalPer100g":"37",
+      "Tags":["Vegetables"]
+    },
+    {
+      "Name":"Tomatoes - Sun Dried",
+      "kCalPer100g":"197",
       "Tags":["Vegetables"]
     },
     {
