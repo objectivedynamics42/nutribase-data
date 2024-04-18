@@ -360,8 +360,6 @@
       "kCalPer100g":"4321",
       "Tags":["Oil"]
     },
-	
-	
     {
       "Name":"Lime Pickle",
       "kCalPer100g":"187",
@@ -370,12 +368,7 @@
     {
       "Name":"Mackerel - in Sauce",
       "kCalPer100g":"126",
-      "Tags":["Packaged"]
-    },
-    {
-      "Name":"Oil",
-      "kCalPer100g":"899",
-      "Tags":["Packaged"]
+      "Tags":["Fish","Packaged"]
     },
     {
       "Name":"Pesto - Green",
