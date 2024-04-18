@@ -368,6 +368,7 @@
     {
       "Name":"Mackerel - in Sauce",
       "kCalPer100g":"126",
+	  "kCalUnit":"Per item",
       "Tags":["Fish","Packaged"]
     },
     {
