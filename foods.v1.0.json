@@ -141,20 +141,48 @@
       "Tags":["Oil"]
     },
     {
-      "Name":"Yoghurt",
-      "kCalPer100g":"4321",
+      "Name":"Spread Cheese - Full Fat",
+      "kCalPer100g":"240",
       "Tags":["Dairy"]
     },
     {
-      "Name":"Whole Milk",
-      "kCalPer100g":"4321",
+      "Name":"Spread Cheese - Light",
+      "kCalPer100g":"141",
       "Tags":["Dairy"]
     },
     {
-      "Name":"Skimmed Milk",
-      "kCalPer100g":"4321",
+      "Name":"Yoghurt - Greek - Full Fat",
+      "kCalPer100g":"126",
       "Tags":["Dairy"]
     },
+    {
+      "Name":"Milk - Full Fat - UHT",
+      "kCalPer100g":"64",
+      "Tags":["Dairy"]
+    },
+    {
+      "Name":"Milk - Oat - Homemade",
+      "kCalPer100g":"46",
+      "Tags":["Dairy"]
+    },
+    {
+      "Name":"Milk - Skimmed - UHT",
+      "kCalPer100g":"18",
+      "Tags":["Dairy"]
+    },
+    {
+      "Name":"Milk - Soya",
+      "kCalPer100g":"33",
+      "Tags":["Dairy"]
+    },
+    {
+      "Name":"Milk - Oat - Vemondo",
+      "kCalPer100g":"41",
+      "Tags":["Dairy"]
+    },
+	
+	
+	
     {
       "Name":"Tuna in Brine",
       "kCalPer100g":"4321",
