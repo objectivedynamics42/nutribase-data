@@ -396,11 +396,6 @@
       "Name":"Smoked Haddock",
       "kCalPer100g":"4321",
       "Tags":["Fish"]
-    },
-    {
-      "Name":"Mackerel",
-      "kCalPer100g":"4321",
-      "Tags":["Fish","Packaged"]
     }
   ]
 }
