@@ -11,6 +11,46 @@
       "Tags":["Bakery"]
     },
     {
+      "Name":"Spread Cheese - Full Fat",
+      "kCalPer100g":"240",
+      "Tags":["Dairy"]
+    },
+    {
+      "Name":"Spread Cheese - Light",
+      "kCalPer100g":"141",
+      "Tags":["Dairy"]
+    },
+    {
+      "Name":"Yoghurt - Greek - Full Fat",
+      "kCalPer100g":"126",
+      "Tags":["Dairy"]
+    },
+    {
+      "Name":"Milk - Full Fat - UHT",
+      "kCalPer100g":"64",
+      "Tags":["Dairy"]
+    },
+    {
+      "Name":"Milk - Oat - Homemade",
+      "kCalPer100g":"46",
+      "Tags":["Dairy"]
+    },
+    {
+      "Name":"Milk - Skimmed - UHT",
+      "kCalPer100g":"18",
+      "Tags":["Dairy"]
+    },
+    {
+      "Name":"Milk - Soya",
+      "kCalPer100g":"33",
+      "Tags":["Dairy"]
+    },
+    {
+      "Name":"Milk - Oat - Vemondo",
+      "kCalPer100g":"41",
+      "Tags":["Dairy"]
+    },
+    {
       "Name":"Apple - Fresh",
       "kCalPer100g":"36",
       "Tags":["Fruit"]
@@ -121,6 +161,36 @@
       "Tags":["Fruit"]
     },
     {
+      "Name":"Bran - Whole",
+      "kCalPer100g":"368",
+      "Tags":["Grains"]
+    },
+    {
+      "Name":"Bran - Kellogs",
+      "kCalPer100g":"350",
+      "Tags":["Grains"]
+    },
+    {
+      "Name":"Granola - Lizi's",
+      "kCalPer100g":"501",
+      "Tags":["Grains"]
+    },
+    {
+      "Name":"Lentils Green - Dried",
+      "kCalPer100g":"176",
+      "Tags":["Grains"]
+    },
+    {
+      "Name":"Nuts - Mixed - Lidl",
+      "kCalPer100g":"646",
+      "Tags":["Grains"]
+    },
+    {
+      "Name":"Seed - Mixed - Holland & Barrett",
+      "kCalPer100g":"566",
+      "Tags":["Grains"]
+    },
+    {
       "Name":"Carrots",
       "kCalPer100g":"4321",
       "Tags":["Vegetables"]
@@ -150,49 +220,6 @@
       "kCalPer100g":"4321",
       "Tags":["Oil"]
     },
-    {
-      "Name":"Spread Cheese - Full Fat",
-      "kCalPer100g":"240",
-      "Tags":["Dairy"]
-    },
-    {
-      "Name":"Spread Cheese - Light",
-      "kCalPer100g":"141",
-      "Tags":["Dairy"]
-    },
-    {
-      "Name":"Yoghurt - Greek - Full Fat",
-      "kCalPer100g":"126",
-      "Tags":["Dairy"]
-    },
-    {
-      "Name":"Milk - Full Fat - UHT",
-      "kCalPer100g":"64",
-      "Tags":["Dairy"]
-    },
-    {
-      "Name":"Milk - Oat - Homemade",
-      "kCalPer100g":"46",
-      "Tags":["Dairy"]
-    },
-    {
-      "Name":"Milk - Skimmed - UHT",
-      "kCalPer100g":"18",
-      "Tags":["Dairy"]
-    },
-    {
-      "Name":"Milk - Soya",
-      "kCalPer100g":"33",
-      "Tags":["Dairy"]
-    },
-    {
-      "Name":"Milk - Oat - Vemondo",
-      "kCalPer100g":"41",
-      "Tags":["Dairy"]
-    },
-	
-	
-	
     {
       "Name":"Tuna in Brine",
       "kCalPer100g":"4321",
