@@ -370,15 +370,20 @@
       "Tags":["Packaged"]
     },
     {
+      "Name":"Pesto - Green",
+      "kCalPer100g":"184",
+      "Tags":["Packaged"]
+    },
+    {
+      "Name":"Anchovies",
+      "kCalPer100g":"4321",
+      "Tags":["Fish","Packaged"]
+    },
+    {
       "Name":"Mackerel in Sauce",
       "kCalPer100g":"126",
 	  "kCalUnit":"Calories per can:",
       "Tags":["Fish","Packaged"]
-    },
-    {
-      "Name":"Pesto - Green",
-      "kCalPer100g":"184",
-      "Tags":["Packaged"]
     },
     {
       "Name":"Tuna - in Spring Water",
