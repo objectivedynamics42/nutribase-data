@@ -37,7 +37,7 @@ Here is an example that uses a non-default value for _kCalUnit_:
     {
       "Name":"Bread - Wholemeal",
       "kCalPer100g":"121",
-	  "kCalUnit":"Calories per round:",
+      "kCalUnit":"Calories per round:",
       "Tags":["Bakery"]
     },
 ```
