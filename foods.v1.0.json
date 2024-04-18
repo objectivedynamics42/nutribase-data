@@ -1,6 +1,21 @@
 {
   "Foods": [
     {
+      "Name":"Penne",
+      "kCalPer100g":"359",
+      "Tags":["Pasta"]
+    },
+    {
+      "Name":"Rice - Basmati",
+      "kCalPer100g":"351",
+      "Tags":["Rice"]
+    },
+    {
+      "Name":"Rice - Wholegrain",
+      "kCalPer100g":"280",
+      "Tags":["Rice"]
+    },
+    {
       "Name":"Chicken",
       "kCalPer100g":"106",
       "Tags":["Meat"]
