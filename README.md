@@ -1,6 +1,6 @@
 # Overview
 This repo holds the files that provide the data for the _NutriBase_ application.
-All data is stored in a pair of json files. For more information on json, see this [W3 Schools article](https://www.w3schools.com/js/js_json_syntax.asp)
+All data is stored in a pair of [json](https://www.w3schools.com/js/js_json_syntax.asp) files. 
 
 The data comprises two fundamental types:
 * Tag
