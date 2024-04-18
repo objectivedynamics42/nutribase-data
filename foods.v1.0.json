@@ -360,10 +360,37 @@
       "kCalPer100g":"4321",
       "Tags":["Oil"]
     },
+	
+	
+    {
+      "Name":"Lime Pickle",
+      "kCalPer100g":"187",
+      "Tags":["Packaged"]
+    },
+    {
+      "Name":"Mackerel - in Sauce",
+      "kCalPer100g":"126",
+      "Tags":["Packaged"]
+    },
+    {
+      "Name":"Oil",
+      "kCalPer100g":"899",
+      "Tags":["Packaged"]
+    },
+    {
+      "Name":"Pesto - Green",
+      "kCalPer100g":"184",
+      "Tags":["Packaged"]
+    },
+    {
+      "Name":"Tuna - in Spring Water",
+      "kCalPer100g":"115",
+      "Tags":["Fish","Packaged"]
+    },
     {
       "Name":"Tuna in Brine",
       "kCalPer100g":"4321",
-      "Tags":["Fish"]
+      "Tags":["Fish","Packaged"]
     },
     {
       "Name":"Smoked Haddock",
@@ -373,7 +400,7 @@
     {
       "Name":"Mackerel",
       "kCalPer100g":"4321",
-      "Tags":["Fish"]
+      "Tags":["Fish","Packaged"]
     }
   ]
 }
