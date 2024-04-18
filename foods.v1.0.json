@@ -1,6 +1,11 @@
 {
   "Foods": [
     {
+      "Name":"Chicken",
+      "kCalPer100g":"106",
+      "Tags":["Meat"]
+    },
+    {
       "Name":"Ryvita - Fruity",
       "kCalPer100g":"56",
       "Tags":["Bakery"]
