@@ -11,8 +11,13 @@
       "Tags":["Rice"]
     },
     {
-      "Name":"Rice - Wholegrain",
+      "Name":"Rice - Wholegrain, dried",
       "kCalPer100g":280,
+      "Tags":["Rice"]
+    },
+    {
+      "Name":"Rice - Wholegrain, cooked",
+      "kCalPer100g":4321,
       "Tags":["Rice"]
     },
     {
