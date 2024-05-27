@@ -150,6 +150,11 @@
       "Tags":["Fruit"]
     },
     {
+      "Name":"Melon",
+      "kCalPer100g":36,
+      "Tags":["Fruit"]
+    },
+    {
       "Name":"Mixed Berries - Frozen",
       "kCalPer100g":50,
       "Tags":["Fruit"]
@@ -222,6 +227,11 @@
     {
       "Name":"Nuts - Mixed - Lidl",
       "kCalPer100g":646,
+      "Tags":["Grains"]
+    },
+    {
+      "Name":"Porridge - Mornflake",
+      "kCalPer100g":369,
       "Tags":["Grains"]
     },
     {
