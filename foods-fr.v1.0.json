@@ -1,0 +1,9 @@
+{
+  "Foods": [
+    {
+      "Name":"Asperges",
+      "kCalPer100g":26,
+      "Tags":["Légumes"]
+    }
+  ]
+}
