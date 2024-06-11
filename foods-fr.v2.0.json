@@ -1,5 +1,5 @@
 {
-  "FoodUnitDefault":"Calories per 100 grams:",
+  "FoodUnitDefault":"Calories pour 100 grammes:",
   "Foods": [
     {
       "Name":"Pain Complet",
@@ -7,8 +7,10 @@
 	  "kCalUnit":"Calories per tranche:",
       "Tags":["Boulangerie"]
     },
+    {
       "Name":"Asperges",
       "kCalPer100g":26,
       "Tags":["Légumes"]
+    }
   ]
 }
