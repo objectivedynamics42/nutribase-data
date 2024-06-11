@@ -3,13 +3,13 @@
   "Foods": [
     {
       "Name":"Pain Complet",
-      "kCalPer100g":121,
+      "kCalPerUnit":121,
 	  "kCalUnit":"Calories per tranche:",
       "Tags":["Boulangerie"]
     },
     {
       "Name":"Asperges",
-      "kCalPer100g":26,
+      "kCalPerUnit":26,
       "Tags":["Légumes"]
     }
   ]

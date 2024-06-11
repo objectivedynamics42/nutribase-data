@@ -3,407 +3,407 @@
   "Foods": [
     {
       "Name":"Penne",
-      "kCalPer100g":359,
+      "kCalPerUnit":359,
       "Tags":["Pasta"]
     },
     {
       "Name":"Rice - Basmati",
-      "kCalPer100g":351,
+      "kCalPerUnit":351,
       "Tags":["Rice"]
     },
     {
       "Name":"Rice - Wholegrain, dried",
-      "kCalPer100g":280,
+      "kCalPerUnit":280,
       "Tags":["Rice"]
     },
     {
       "Name":"Rice - Wholegrain, cooked",
-      "kCalPer100g":4321,
+      "kCalPerUnit":4321,
       "Tags":["Rice"]
     },
     {
       "Name":"Chicken",
-      "kCalPer100g":106,
+      "kCalPerUnit":106,
       "Tags":["Meat"]
     },
     {
       "Name":"Ryvita - Fruity",
-      "kCalPer100g":56,
+      "kCalPerUnit":56,
 	  "kCalUnit":"Calories each:",
       "Tags":["Bakery"]
     },
     {
       "Name":"Bread - Wholemeal",
-      "kCalPer100g":121,
+      "kCalPerUnit":121,
 	  "kCalUnit":"Calories per round:",
       "Tags":["Bakery"]
     },
     {
       "Name":"Eggs - Large",
-      "kCalPer100g":85,
+      "kCalPerUnit":85,
 	  "kCalUnit":"Calories each:",
       "Tags":["Dairy"]
     },
     {
       "Name":"Eggs - Medium",
-      "kCalPer100g":72,
+      "kCalPerUnit":72,
 	  "kCalUnit":"Calories each:",
       "Tags":["Dairy"]
     },
     {
       "Name":"Spread Cheese - Full Fat",
-      "kCalPer100g":240,
+      "kCalPerUnit":240,
       "Tags":["Dairy"]
     },
     {
       "Name":"Spread Cheese - Light",
-      "kCalPer100g":141,
+      "kCalPerUnit":141,
       "Tags":["Dairy"]
     },
     {
       "Name":"Yoghurt - Greek - Full Fat",
-      "kCalPer100g":126,
+      "kCalPerUnit":126,
       "Tags":["Dairy"]
     },
     {
       "Name":"Milk - Full Fat - UHT",
-      "kCalPer100g":64,
+      "kCalPerUnit":64,
       "Tags":["Dairy"]
     },
     {
       "Name":"Milk - Oat - Homemade",
-      "kCalPer100g":46,
+      "kCalPerUnit":46,
       "Tags":["Dairy"]
     },
     {
       "Name":"Milk - Skimmed - UHT",
-      "kCalPer100g":18,
+      "kCalPerUnit":18,
       "Tags":["Dairy"]
     },
     {
       "Name":"Milk - Soya",
-      "kCalPer100g":33,
+      "kCalPerUnit":33,
       "Tags":["Dairy"]
     },
     {
       "Name":"Milk - Oat - Vemondo",
-      "kCalPer100g":41,
+      "kCalPerUnit":41,
       "Tags":["Dairy"]
     },
     {
       "Name":"Apple - Fresh",
-      "kCalPer100g":36,
+      "kCalPerUnit":36,
       "Tags":["Fruit"]
     },
     {
       "Name":"Apple - Stewed",
-      "kCalPer100g":40,
+      "kCalPerUnit":40,
       "Tags":["Fruit"]
     },
     {
       "Name":"Apricot - Dried",
-      "kCalPer100g":215,
+      "kCalPerUnit":215,
       "Tags":["Fruit"]
     },
     {
       "Name":"Apricot - With Stone",
-      "kCalPer100g":7,
+      "kCalPerUnit":7,
       "Tags":["Fruit"]
     },
     {
       "Name":"Banana",
-      "kCalPer100g":89,
+      "kCalPerUnit":89,
       "Tags":["Fruit"]
     },
     {
       "Name":"Blackberries",
-      "kCalPer100g":60,
+      "kCalPerUnit":60,
       "Tags":["Fruit"]
     },
     {
       "Name":"Dates - Dried",
-      "kCalPer100g":282,
+      "kCalPerUnit":282,
       "Tags":["Fruit"]
     },
     {
       "Name":"Figs - Dried",
-      "kCalPer100g":233,
+      "kCalPerUnit":233,
       "Tags":["Fruit"]
     },
     {
       "Name":"Figs - Fresh",
-      "kCalPer100g":74,
+      "kCalPerUnit":74,
       "Tags":["Fruit"]
     },
     {
       "Name":"Grapes",
-      "kCalPer100g":64,
+      "kCalPerUnit":64,
       "Tags":["Fruit"]
     },
     {
       "Name":"Kiwi",
-      "kCalPer100g":44,
+      "kCalPerUnit":44,
       "Tags":["Fruit"]
     },
     {
       "Name":"Mango",
-      "kCalPer100g":63,
+      "kCalPerUnit":63,
       "Tags":["Fruit"]
     },
     {
       "Name":"Melon",
-      "kCalPer100g":36,
+      "kCalPerUnit":36,
       "Tags":["Fruit"]
     },
     {
       "Name":"Mixed Berries - Frozen",
-      "kCalPer100g":50,
+      "kCalPerUnit":50,
       "Tags":["Fruit"]
     },
     {
       "Name":"Nectarine",
-      "kCalPer100g":44,
+      "kCalPerUnit":44,
       "Tags":["Fruit"]
     },
     {
       "Name":"Peach",
-      "kCalPer100g":32,
+      "kCalPerUnit":32,
       "Tags":["Fruit"]
     },
     {
       "Name":"Peaches and Nectarines - Frozen",
-      "kCalPer100g":42,
+      "kCalPerUnit":42,
       "Tags":["Fruit"]
     },
     {
       "Name":"Pear",
-      "kCalPer100g":36,
+      "kCalPerUnit":36,
       "Tags":["Fruit"]
     },
     {
       "Name":"Persimmon",
-      "kCalPer100g":127,
+      "kCalPerUnit":127,
       "Tags":["Fruit"]
     },
     {
       "Name":"Pineapple - Frozen",
-      "kCalPer100g":45,
+      "kCalPerUnit":45,
       "Tags":["Fruit"]
     },
     {
       "Name":"Plum",
-      "kCalPer100g":36,
+      "kCalPerUnit":36,
       "Tags":["Fruit"]
     },
     {
       "Name":"Rhubarb - stewed",
-      "kCalPer100g":27,
+      "kCalPerUnit":27,
       "Tags":["Fruit"]
     },
     {
       "Name":"Tangerine - Flesh Only",
-      "kCalPer100g":53,
+      "kCalPerUnit":53,
       "Tags":["Fruit"]
     },
     {
       "Name":"Bran - Whole",
-      "kCalPer100g":368,
+      "kCalPerUnit":368,
       "Tags":["Grains"]
     },
     {
       "Name":"Bran - Kellogs",
-      "kCalPer100g":350,
+      "kCalPerUnit":350,
       "Tags":["Grains"]
     },
     {
       "Name":"Granola - Lizi's",
-      "kCalPer100g":501,
+      "kCalPerUnit":501,
       "Tags":["Grains"]
     },
     {
       "Name":"Lentils Green - Dried",
-      "kCalPer100g":176,
+      "kCalPerUnit":176,
       "Tags":["Grains"]
     },
     {
       "Name":"Nuts - Mixed - Lidl",
-      "kCalPer100g":646,
+      "kCalPerUnit":646,
       "Tags":["Grains"]
     },
     {
       "Name":"Porridge - Mornflake",
-      "kCalPer100g":369,
+      "kCalPerUnit":369,
       "Tags":["Grains"]
     },
     {
       "Name":"Seed - Mixed - Holland & Barrett",
-      "kCalPer100g":566,
+      "kCalPerUnit":566,
       "Tags":["Grains"]
     },
     {
       "Name":"Asparagus",
-      "kCalPer100g":26,
+      "kCalPerUnit":26,
       "Tags":["Vegetables"]
     },
     {
       "Name":"Aubergine",
-      "kCalPer100g":25,
+      "kCalPerUnit":25,
       "Tags":["Vegetables"]
     },
     {
       "Name":"Broccoli",
-      "kCalPer100g":25,
+      "kCalPerUnit":25,
       "Tags":["Vegetables"]
     },
     {
       "Name":"Butternut Squash",
-      "kCalPer100g":45,
+      "kCalPerUnit":45,
       "Tags":["Vegetables"]
     },
     {
       "Name":"Cabbage",
-      "kCalPer100g":21,
+      "kCalPerUnit":21,
       "Tags":["Vegetables"]
     },
     {
       "Name":"Carrot",
-      "kCalPer100g":21,
+      "kCalPerUnit":21,
       "Tags":["Vegetables"]
     },
     {
       "Name":"Cauliflower",
-      "kCalPer100g":38,
+      "kCalPerUnit":38,
       "Tags":["Vegetables"]
     },
     {
       "Name":"Celery",
-      "kCalPer100g":7,
+      "kCalPerUnit":7,
       "Tags":["Vegetables"]
     },
     {
       "Name":"Garlic - Fresh",
-      "kCalPer100g":111,
+      "kCalPerUnit":111,
       "Tags":["Vegetables"]
     },
     {
       "Name":"Garlic - Paste",
-      "kCalPer100g":102,
+      "kCalPerUnit":102,
       "Tags":["Vegetables"]
     },
     {
       "Name":"Ginger - Paste",
-      "kCalPer100g":49,
+      "kCalPerUnit":49,
       "Tags":["Vegetables"]
     },
     {
       "Name":"Mushrooms",
-      "kCalPer100g":20,
+      "kCalPerUnit":20,
       "Tags":["Vegetables"]
     },
     {
       "Name":"Olives",
-      "kCalPer100g":155,
+      "kCalPerUnit":155,
       "Tags":["Vegetables"]
     },
     {
       "Name":"Onion",
-      "kCalPer100g":25,
+      "kCalPerUnit":25,
       "Tags":["Vegetables"]
     },
     {
       "Name":"Peas - Frozen",
-      "kCalPer100g":83,
+      "kCalPerUnit":83,
       "Tags":["Vegetables"]
     },
     {
       "Name":"Pepper - Red",
-      "kCalPer100g":24,
+      "kCalPerUnit":24,
       "Tags":["Vegetables"]
     },
     {
       "Name":"Pepper - Yellow",
-      "kCalPer100g":36,
+      "kCalPerUnit":36,
       "Tags":["Vegetables"]
     },
     {
       "Name":"Potatoes - baby",
-      "kCalPer100g":64,
+      "kCalPerUnit":64,
       "Tags":["Vegetables"]
     },
     {
       "Name":"Runner Beans",
-      "kCalPer100g":25,
+      "kCalPerUnit":25,
       "Tags":["Vegetables"]
     },
     {
       "Name":"Sprouts",
-      "kCalPer100g":35,
+      "kCalPerUnit":35,
       "Tags":["Vegetables"]
     },
     {
       "Name":"Swede",
-      "kCalPer100g":38,
+      "kCalPerUnit":38,
       "Tags":["Vegetables"]
     },
     {
       "Name":"Sweet Potato",
-      "kCalPer100g":86,
+      "kCalPerUnit":86,
       "Tags":["Vegetables"]
     },
     {
       "Name":"Sweetcorn - Frozen",
-      "kCalPer100g":77,
+      "kCalPerUnit":77,
       "Tags":["Vegetables"]
     },
     {
       "Name":"Tomatoes - Tinned - Chopped",
-      "kCalPer100g":22,
+      "kCalPerUnit":22,
       "Tags":["Vegetables"]
     },
     {
       "Name":"Tomtatoes - Fresh",
-      "kCalPer100g":14,
+      "kCalPerUnit":14,
       "Tags":["Vegetables"]
     },
     {
       "Name":"Tomatoes - Passata",
-      "kCalPer100g":37,
+      "kCalPerUnit":37,
       "Tags":["Vegetables"]
     },
     {
       "Name":"Tomatoes - Sun Dried",
-      "kCalPer100g":197,
+      "kCalPerUnit":197,
       "Tags":["Vegetables"]
     },
     {
       "Name":"Rapeseed Oil",
-      "kCalPer100g":899,
+      "kCalPerUnit":899,
       "Tags":["Packaged","Oil"]
     },
     {
       "Name":"Lime Pickle",
-      "kCalPer100g":187,
+      "kCalPerUnit":187,
       "Tags":["Packaged"]
     },
     {
       "Name":"Pesto - Green",
-      "kCalPer100g":184,
+      "kCalPerUnit":184,
       "Tags":["Packaged"]
     },
     {
       "Name":"Anchovies",
-      "kCalPer100g":248,
+      "kCalPerUnit":248,
       "Tags":["Fish","Packaged"]
     },
     {
       "Name":"Mackerel in Sauce",
-      "kCalPer100g":126,
+      "kCalPerUnit":126,
 	  "kCalUnit":"Calories per can:",
       "Tags":["Fish","Packaged"]
     },
     {
       "Name":"Tuna - in Spring Water",
-      "kCalPer100g":115,
+      "kCalPerUnit":115,
       "Tags":["Fish","Packaged"]
     }
   ]
