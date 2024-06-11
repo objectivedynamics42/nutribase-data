@@ -1,0 +1,14 @@
+{
+  "FoodUnitDefault":"Calories per 100 grams:",
+  "Foods": [
+    {
+      "Name":"Bread - Wholemeal",
+      "kCalPer100g":121,
+	  "kCalUnit":"Calories per round:",
+      "Tags":["Boulangerie"]
+    },
+      "Name":"Asperges",
+      "kCalPer100g":26,
+      "Tags":["Légumes"]
+  ]
+}
