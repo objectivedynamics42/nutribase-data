@@ -2,9 +2,9 @@
   "FoodUnitDefault":"Calories per 100 grams:",
   "Foods": [
     {
-      "Name":"Bread - Wholemeal",
+      "Name":"Pain Complet",
       "kCalPer100g":121,
-	  "kCalUnit":"Calories per round:",
+	  "kCalUnit":"Calories per tranche:",
       "Tags":["Boulangerie"]
     },
       "Name":"Asperges",
