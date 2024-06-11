@@ -1,5 +1,5 @@
 {
-  "DefaultMeasure":"Calories per 100 grams:",
+  "FoodUnitDefault":"Calories per 100 grams:",
   "Foods": [
     {
       "Name":"Penne",
