@@ -201,6 +201,11 @@
       "Tags":["Fruit"]
     },
     {
+      "Name":"Strawberries",
+      "kCalPer100g":32,
+      "Tags":["Fruit"]
+    },
+    {
       "Name":"Tangerine - Flesh Only",
       "kCalPerUnit":53,
       "Tags":["Fruit"]
