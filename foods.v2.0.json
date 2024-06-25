@@ -202,7 +202,7 @@
     },
     {
       "Name":"Strawberries",
-      "kCalPer100g":32,
+      "kCalPerUnit":32,
       "Tags":["Fruit"]
     },
     {
