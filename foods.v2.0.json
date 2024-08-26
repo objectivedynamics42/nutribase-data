@@ -22,8 +22,9 @@
       "Tags":["Rice"]
     },
     {
-      "Name":"Chicken",
+      "Name":"Chicken Breast",
       "kCalPerUnit":106,
+      "gProteinPerUnit":32,
       "Tags":["Meat"]
     },
     {
