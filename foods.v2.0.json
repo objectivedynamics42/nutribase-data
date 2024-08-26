@@ -1,5 +1,6 @@
 {
   "FoodUnitDefault":"Calories per 100 grams:",
+  "ProteinUnitDefault":"Protein grams per 100 grams:",
   "Foods": [
     {
       "Name":"Penne",
