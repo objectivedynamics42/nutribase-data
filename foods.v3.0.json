@@ -1,5 +1,5 @@
 {
-  "UnitDefaultCaption":"Per 100 Grams",
+  "UnitCaptionDefault":"Per 100 Grams",
   "Foods": [
     {
       "Name":"Penne",
@@ -30,25 +30,25 @@
     {
       "Name":"Ryvita - Fruity",
       "kCalPerUnit":56,
-	  "kCalUnit":"Calories each:",
+      "UnitCaptionOverride":"Per Biscuit:",
       "Tags":["Bakery"]
     },
     {
       "Name":"Bread - Wholemeal",
       "kCalPerUnit":121,
-	  "kCalUnit":"Calories per round:",
+      "UnitCaptionOverride":"Per Round:",
       "Tags":["Bakery"]
     },
     {
       "Name":"Eggs - Large",
       "kCalPerUnit":85,
-	  "kCalUnit":"Calories each:",
+      "UnitCaptionOverride":"Per Egg:",
       "Tags":["Dairy"]
     },
     {
       "Name":"Eggs - Medium",
       "kCalPerUnit":72,
-	  "kCalUnit":"Calories each:",
+      "UnitCaptionOverride":"Per Egg:",
       "Tags":["Dairy"]
     },
     {
@@ -409,7 +409,7 @@
     {
       "Name":"Mackerel in Sauce",
       "kCalPerUnit":126,
-	  "kCalUnit":"Calories per can:",
+      "UnitCaptionOverride":"Per can:",
       "Tags":["Fish","Packaged"]
     },
     {
