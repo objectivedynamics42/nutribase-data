@@ -30,25 +30,25 @@
     {
       "Name":"Ryvita - Fruity",
       "kCalPerUnit":56,
-      "UnitCaptionOverride":"Per Biscuit:",
+      "UnitCaptionOverride":"Per Biscuit",
       "Tags":["Bakery"]
     },
     {
       "Name":"Bread - Wholemeal",
       "kCalPerUnit":121,
-      "UnitCaptionOverride":"Per Round:",
+      "UnitCaptionOverride":"Per Round",
       "Tags":["Bakery"]
     },
     {
       "Name":"Eggs - Large",
       "kCalPerUnit":85,
-      "UnitCaptionOverride":"Per Egg:",
+      "UnitCaptionOverride":"Per Egg",
       "Tags":["Dairy"]
     },
     {
       "Name":"Eggs - Medium",
       "kCalPerUnit":72,
-      "UnitCaptionOverride":"Per Egg:",
+      "UnitCaptionOverride":"Per Egg",
       "Tags":["Dairy"]
     },
     {
@@ -409,7 +409,7 @@
     {
       "Name":"Mackerel in Sauce",
       "kCalPerUnit":126,
-      "UnitCaptionOverride":"Per can:",
+      "UnitCaptionOverride":"Per Can",
       "Tags":["Fish","Packaged"]
     },
     {
