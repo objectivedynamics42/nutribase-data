@@ -98,6 +98,12 @@
       "Tags":["Dairy"]
     },
     {
+      "Name":"PhD Whey Protein Powder",
+      "kCalPerUnit":96,
+      "gProteinPerUnit":64,
+      "Tags":["Supplements"]
+    },
+    {
       "Name":"Apple - Fresh",
       "kCalPerUnit":36,
       "Tags":["Fruit"]

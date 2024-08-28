@@ -1,7 +1,25 @@
 {
   "Tags": [
     {
-      "Name":"Rice"
+      "Name":"Bakery"
+    },
+    {
+      "Name":"Dairy"
+    },
+    {
+      "Name":"Fish"
+    },
+    {
+      "Name":"Fruit"
+    },
+    {
+      "Name":"Grains"
+    },
+    {
+      "Name":"Meat"
+    },
+    {
+      "Name":"Oil"
     },
     {
       "Name":"Packaged"
@@ -10,28 +28,13 @@
       "Name":"Pasta"
     },
     {
-      "Name":"Meat"
+      "Name":"Rice"
     },
     {
-      "Name":"Grains"
-    },
-    {
-      "Name":"Bakery"
-    },
-    {
-      "Name":"Fruit"
+      "Name":"Supplements"
     },
     {
       "Name":"Vegetables"
-    },
-    {
-      "Name":"Oil"
-    },
-    {
-      "Name":"Dairy"
-    },
-    {
-      "Name":"Fish"
     }
   ]
 }
