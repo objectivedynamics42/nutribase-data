@@ -48,6 +48,7 @@
     {
       "Name":"Eggs - Medium",
       "kCalPerUnit":72,
+      "gProteinPerUnit":7,
       "UnitCaptionOverride":"Per Egg",
       "Tags":["Dairy"]
     },
