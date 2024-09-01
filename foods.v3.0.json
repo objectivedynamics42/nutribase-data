@@ -80,13 +80,15 @@
       "Tags":["Dairy"]
     },
     {
-      "Name":"Yoghurt - Greek - Full Fat",
+      "Name":"Greek Yoghurt - Milbona (LIDL) - Full Fat",
       "kCalPerUnit":126,
+      "gProteinPerUnit":4.1,
       "Tags":["Dairy"]
     },
     {
-      "Name":"Milk - Full Fat - UHT",
-      "kCalPerUnit":64,
+      "Name":"Milk - UHT Full Fat - Tesco",
+      "kCalPerUnit":66,
+      "gProteinPerUnit":3.5,
       "Tags":["Dairy"]
     },
     {
@@ -95,8 +97,9 @@
       "Tags":["Dairy"]
     },
     {
-      "Name":"Milk - Skimmed - UHT",
-      "kCalPerUnit":18,
+      "Name":"Milk - UHT Skimmed - Dairy Manor (LIDL) ",
+      "kCalPerUnit":35,
+      "gProteinPerUnit":3.4,
       "Tags":["Dairy"]
     },
     {
@@ -256,7 +259,7 @@
       "Tags":["Grains"]
     },
     {
-      "Name":"Nuts - Mixed - Lidl",
+      "Name":"Nuts - Mixed - (Lidl)",
       "kCalPerUnit":646,
       "gProteinPerUnit":20.4,
       "Tags":["Grains"]
@@ -274,7 +277,7 @@
       "Tags":["Grains"]
     },
     {
-      "Name":"Seed - Mixed - Aleast (LIDL)",
+      "Name":"Seed - Mixed - Alesto (LIDL)",
       "kCalPerUnit":576,
       "gProteinPerUnit":23,
       "Tags":["Grains"]
