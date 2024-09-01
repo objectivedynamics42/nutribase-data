@@ -2,6 +2,18 @@
   "UnitCaptionDefault":"Per 100 Grams",
   "Foods": [
     {
+      "Name":"Chickpeas - Freshona (LIDL) - In Water",
+      "kCalPerUnit":125,
+      "gProteinPerUnit":6.4,
+      "Tags":["Legumes"]
+    },
+    {
+      "Name":"Kidney Beans",
+      "kCalPerUnit":93,
+      "gProteinPerUnit":7.2,
+      "Tags":["Legumes"]
+    },
+    {
       "Name":"Penne",
       "kCalPerUnit":359,
       "Tags":["Pasta"]
@@ -246,16 +258,25 @@
     {
       "Name":"Nuts - Mixed - Lidl",
       "kCalPerUnit":646,
+      "gProteinPerUnit":20.4,
       "Tags":["Grains"]
     },
     {
       "Name":"Porridge - Mornflake",
       "kCalPerUnit":369,
+      "gProteinPerUnit":11.5,
       "Tags":["Grains"]
     },
     {
       "Name":"Seed - Mixed - Holland & Barrett",
       "kCalPerUnit":566,
+      "gProteinPerUnit":23.7,
+      "Tags":["Grains"]
+    },
+    {
+      "Name":"Seed - Mixed - Aleast (LIDL)",
+      "kCalPerUnit":576,
+      "gProteinPerUnit":23,
       "Tags":["Grains"]
     },
     {
@@ -414,14 +435,23 @@
       "Tags":["Fish","Packaged"]
     },
     {
-      "Name":"Mackerel in Sauce",
-      "kCalPerUnit":126,
-      "UnitCaptionOverride":"Per Can",
+      "Name":"Mackerel in Sauce - Nixe (LIDL) - In Spicy Tomato Sauce",
+      "kCalPerUnit":103,
+      "gProteinPerUnit":8.3,
+      "UnitCaptionOverride":"Per Half Can",
       "Tags":["Fish","Packaged"]
     },
     {
-      "Name":"Tuna - in Spring Water",
-      "kCalPerUnit":115,
+      "Name":"Mackerel in Sauce - Sainsbury's - In Spicy Jerk Sauce",
+      "kCalPerUnit":132,
+      "gProteinPerUnit":8.5,
+      "UnitCaptionOverride":"Per Half Can",
+      "Tags":["Fish","Packaged"]
+    },
+    {
+      "Name":"Tuna - Nixe (LIDL) In Brine",
+      "kCalPerUnit":58,
+      "UnitCaptionOverride":"Per Half Can",
       "Tags":["Fish","Packaged"]
     }
   ]
